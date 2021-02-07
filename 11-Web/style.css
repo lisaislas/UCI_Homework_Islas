@@ -1,0 +1,51 @@
+.image-size{
+    width: 150px;
+    height: 150px;
+}
+
+img {
+    max-width: 100%;
+}
+
+h1{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+}
+
+h2{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+p{
+    text-align: left;
+}
+title{
+    color: lightgreen;
+}
+
+p{
+    color: grey;
+    text-align: left;
+}
+
+h1, h2, h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: lightgreen
+}
+body{
+    width: 100%;
+    min-height:100%;
+    background-color: lightgray;
+}
+
+col {
+    width: 100%;
+}
+
+.homebtn{
+    background-color: white;
+    z-index:2;
+}
